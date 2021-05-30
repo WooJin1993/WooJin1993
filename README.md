@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WooJin1993
-- 👀 I’m interested in Statistics and Machine-Learning
+- 👀 I’m interested in Statistics and Data-science
 - 🌱 I’m currently learning in SNU
 
 <!---
